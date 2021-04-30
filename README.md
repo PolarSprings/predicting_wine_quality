@@ -7,4 +7,4 @@ Filling missing values with pandas, interpolation, random forests, etc. Basic co
 
 
 
-link with graphs: https://nbviewer.jupyter.org/github/PolarSprings/predicting_wine_quality/blob/master/Reds_summary.ipynb
+link with visuals: https://nbviewer.jupyter.org/github/PolarSprings/predicting_wine_quality/blob/master/Reds_summary.ipynb
