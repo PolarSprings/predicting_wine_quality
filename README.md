@@ -1,5 +1,5 @@
 # predicting_wine_quality
-Using pandas, numpy, and plotly to find the null values in a sample set of data
+Filling missing values with pandas, interpolation, random forests, etc. Basic comparative analysis.
 
 
 
